@@ -42,7 +42,7 @@ jsonify==0.5
 jsonschema==3.2.0
 jupyter-client==6.1.3
 jupyter-core==4.6.3
-keyring @ file:///C:/ci/keyring_1593109817825/work
+keyring 
 kiwisolver==1.2.0
 lazy-object-proxy==1.5.0
 MarkupSafe==1.1.1
@@ -68,11 +68,11 @@ prompt-toolkit==3.0.5
 psutil==5.7.0
 pycodestyle==2.5.0
 pycparser==2.20
-pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1592848020240/work
+pydocstyle 
 pyflakes==2.1.1
 Pygments==2.6.1
 pylint==2.4.4
-PyNaCl @ file:///C:/ci/pynacl_1593121837095/work
+PyNaCl 
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
 pyrsistent==0.16.0
