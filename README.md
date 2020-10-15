@@ -10,7 +10,7 @@
 Link of the website - https://carcostpredictor.herokuapp.com/	
 
 ## Overview
-This is a simple Car cost prediction model deployed on Heroku using Flask.The dataset is collected from Kaggle and model is trained usinf random forest regressor.
+This is a Car cost prediction application deployed on Heroku using Flask.The dataset is collected from Kaggle and model is trained using random forest regressor.
 
 ## Motivation
 Just like every begineer in the field of ML/DL, I used to download datasets and leave the projects after training them but over the time, I understood that one should also focus on the deployment of the project or i say end to end development of a project.Because if anyone want to see your project, he/sge would first interact with the interface of you project and later go on backend.
